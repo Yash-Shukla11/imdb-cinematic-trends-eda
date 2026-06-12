@@ -6,10 +6,9 @@
 
 **Uncovering the hidden trends in 19,800+ movies using Python**
 
-[![GitHub last commit](https://img.shields.io/github/last-commithttps://github.com/Yash-Shukla11/imdb-cinematic-trends-eda?style=for-the-badge&color=blueviolet)](https://github.com/Yash-Shukla11/imdb-cinematic-trends-eda)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Yash-Shukla11/imdb-cinematic-trends-eda?style=for-the-badge&color=blueviolet)](https://github.com/Yash-Shukla11/imdb-cinematic-trends-eda)
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Analysis-Complete-brightgreen?style=for-the-badge)](https://github.com/Yash-Shukla11/imdb-cinematic-trends-eda)
-
 ---
 
 ### 🚀 Data Analysis Lifecycle
@@ -47,7 +46,9 @@
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
 <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black" /></a>
 <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logo=seaborn&logoColor=white" /></a>
-<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
+<a href="https://colab.research.google.com/github/Yash-Shukla11/imdb-cinematic-trends-eda/blob/main/movies_analysis.ipynb">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</a>
 
 </div>
 
